@@ -1,0 +1,100 @@
+The wireless communication technologies have evolved quickly over the past few years. The advances in wireless communication have enabled rapid development of a variety of wireless networks, such as wireless local area network, multi-hop ad-hoc network, and sensor network. In all these networks, a set of computing devices are interconnected over wireless medium to form a distributed environment. Popularity of these networks is due to its ubiquity and convenience.
+
+Wired network with static hosts and routers form a fixed infrastructure for data communication. Replacement of these static hosts with wireless supported portable devices provide infrastructure supported wireless local area network. In such networks the routers are part of infrastructure and portable devices are mobile. Further, the wireless portable devices with built-in router provide multi-hop ad-hoc networks. Mobile Ad-hoc Networks (MANETs) are multi-hop ad-hoc networks where some or all of the devices may be mobile.
+
+\section{Mobile Ad-hoc Network}
+\label{Mobile Ad-hoc Network}
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+\begin{enumerate}
+\item There is no fixed topology.
+\item Each node is a router.
+\item The transmission medium is shared.
+\item Mobile nodes have transient connectivity and limited availability.
+\item The network lacks central administration.
+\item Mobile nodes have relatively limited energy, processing power and other resources.
+\end{enumerate}
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+Mobile Ad-hoc Network (MANET)\index{MANET} \nomenclature{MANET}{Mobile Ad-hoc Network}is a collection
+of autonomous nodes that form a dynamic purpose-specific multi hop
+radio network in a decentralized fashion~\cite{BP05}~\cite{KGA06}~\cite{CMS98}. As nodes move
+about in an unpredictable fashion, these networks must be
+configured on the fly to handle the dynamic topology. These networks with no fixed topology have been constrained with limited energy and
+processing capabilities of nodes and lack centralized
+administration. These networks also carry all the disadvantages of
+wireless medium like shared physical medium, higher bit error rates etc.  However, MANETs offer a convenient infrastructure-less communication over a shared wireless channel. These, being cost-effective and quick to install, find many applications such as military tactical operations, emergencies and law enforcement, rescue missions, and many other applications like round table conferences and classroom discussions etc. In brief, MANET characteristics are as enumerated below.
+
+
+\section{Summary}
+In this chapter, an overview of the problem statement along with its solution for the work contained in this dissertation is provided. In the next chapter, related work in the area of communication architecture for disaster rescue operations, and MANET security through secure routing, trust management, key management and intrusion detection are presented.
+

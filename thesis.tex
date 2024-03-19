@@ -1,0 +1,140 @@
+\RequirePackage[2020-02-02]{latexrelease}
+\documentclass{SSBT-BE}
+\usepackage[utf8]{inputenc}
+\usepackage{makeidx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphics}
+\usepackage{subfigure}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{%
+  babel,
+  algorithmic,
+  algorithm,
+  caption
+}
+
+\usepackage{url}
+\usepackage[breaklinks=true]{hyperref}
+
+\usepackage[intoc]{nomencl}
+\renewcommand{\nomname}{Abbreviations}
+\makenomenclature
+
+\makeindex
+
+\begin{document}
+
+\title{E-Buddy for Rescued Child Labour}
+\author{Sunidhi Jagdish Chavan\\Darshana Kamalakant Ingale \\Lina Shamkant Baviskar \\ Rekha Raju Mahajan }
+
+\dept{Department of Computer Engineering}
+\supervisor{Prof. Akash D. Waghmare}
+\submitdate{2022 - 2023}
+\degree{Bachelor of Engineering}
+\specialization{Computer Engineering}
+\type{Minor Project}
+%\type{Seminar}
+\hod{Dr. Manoj E. Patil}
+
+
+
+\beforepreface
+\prefacesection{Acknowledgement}
+We would like to express our deep gratitude and sincere thanks to all who helped us in completing this project report successfully. Many thanks to almighty God who gave us the strength to do this. Our sincere thanks to Principal Prof. Dr. Girish. K. Patnaik for providing the facilities to complete this Project report. We would like to express our gratitude and appreciation to all those who gave us the possibility to complete this report. A special thanks to Prof. Dr. Manoj E. Patil, Head of the Department, whose help, stimulating suggestions and encouragement, helped us in writing this report. We would also like to thank Prof. Akash D. Waghamare, Project Guide, who has given his full effort in guiding us and achieving the goal as well as his encouragement to maintain the progress in track. I am also sincerely thankful to Mrs. Shital Patil, Incharge of Project, for her valuable suggestions and guidance. We would also like to appreciate the guidance given by other supervisor that has improved our presentation skills by their comments and tips. Last but not the least, we are extremely thankful to our parents and friends without whom it could not reach its successful completion.
+
+\begin{flushright} 
+Sunidhi Jagdish Chavan 
+ 
+ Darshana Kamalakant Ingale
+ 
+ Lina Shamkant Baviskar
+ 
+ Rekha Raju Mahajan
+ \end{flushright}
+
+\printnomenclature
+
+
+
+
+\newpage
+\afterpreface
+\listoffigures
+\listoftables
+%\input{glossary}
+\clearpage
+\pagenumbering{arabic}
+\pagestyle{plain}
+
+
+\prefacesection{Abstract}
+Children are employed due to social obligation, or loans and debts made by the families. Usually, children are forced to employ their families in brick kilns, stone and quarries, and agricultural sectors.
+
+The children of the migrant workers and those that belong to the marginalized sections and Dalits in the society are pledged to work in small production houses and factories in the urban areas. Child Labourers on the bond are usually subjected to physical, emotional, mental, and sexual abuse, even leading to death.
+
+In this regard, the approach will be for user to capture images and provide further information of the witnessed act of child labour. After scrutinization the filtered data will be provided to the concerned authorities. This will add impetus to establish a child labour free nation, E-Buddy for rescued child labour website will provide effective enforcement for no child labour. Which will be reducing the incidence of child labour and helpful for government of India.
+
+\acknowledge
+
+\chapter{Introduction}
+\input{./introduction/introduction}
+
+\chapter{Project Planning And Management}
+Project planning is a procedural step in project management. It is the practice of initiating, planning, executing, controlling and closing the work team to achieve specific goals. Project planning and management is important because it ensures that the right people do the right things, at the right time.  It also ensures the proper project lifecycle.
+
+The organization of this chapter is as below. Section 2.1 shows the Feasibility Study of the project. Risk Analysis of the project is represented in Section 2.2 and Project Scheduling is described in Section 2.3. Section 2.4 and 2.5 describe the Effort Allocation and Cost Estimation respectively. The Summary is mentioned in Section 2.6.
+
+\input{./trust/ppm/ppm}
+
+%\chapter{Key Management}
+\label{CH-Key Management}
+%\input{./key/gkp}
+
+\chapter{Analysis}
+\input{./analysis/analysis}
+
+\chapter{Design}
+\input{./design/design}
+
+\chapter{Implementation}
+\input{./implementation/impl}
+
+\chapter{Testing}
+\input{./Testing/test}
+
+\chapter{Result and Discussion}
+\input{./Result/result}
+
+
+
+\chapter{Conclusion and Futurework}
+The project has completed all the stages of development.The project will target to eventually reduce child labour as,it would function as a helping hand in detecting the child labour and then providing resources to the children who suffered.The project is built to identify and reduce child labour  efficiently, that is seen so commonly in the society.
+The system to identify and analyze child labour has been built which can be easily integrated into
+any existing system.
+The future work may involve better and advanced features for identification.
+
+\chapter{Bibliography}
+\begin{itemize}
+    \item https://www.slideshare.net/7303042794deadlialive/child-labour-45359933
+
+\item https://en.wikipedia.org/wiki/Child-labour
+
+\item Book: Software engineering concepts and practices Ugrasen Suman
+
+\item Farhat Tasnim Progga, "Deep Learning Based Approach to Child Labour Detection", October 2020, Marquette University
+\end{itemize}
+
+
+%Use following command at the command prompt to display the Index
+% makeindex thesis
+\newpage
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+
+\end{document}

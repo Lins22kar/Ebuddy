@@ -1,0 +1,99 @@
+Testing is the process of evaluating a system or its component(s) with the intent to find
+whether it satisfies the specified requirements or not. In simple words, testing is executing a
+system in order to identify any gaps, errors, or missing requirements in contrary to the actual
+requirements. Software Testing is a process of verifying and validating whether the program
+is performing correctly with no bugs. It is the process of analyzing or operating software
+for the purpose of finding bugs. It also helps to identify the defects / aws / errors that
+may appear in the application code, which needs to be fixed. Testing not only means fixing
+the bug in the code, but also to check whether the program is behaving according to the
+given specifications and testing strategies. This Chapter is organized as follows.
+
+Section 6.1
+describes Black Box Testing and white Box Testing. Section 6.2 describes Manual Testing
+and Automated Testing. Test Cases Identification and Execution describe in Section 6.3.
+Finally, summary of the chapter is given in last section
+
+\section{Black Box and White Box Testing}
+The following methodologies are used for testing.
+\subsection{Black Box Testing}
+Black Box testing also known as Behavioral Testing, is a software testing method in which
+the internal structure/design/implementation of the item being tested is not known to the
+tester. These tests can be functional or non-functional, though usually functional.
+This method is named so because the software program, in the eyes of the tester, is like a
+black box; inside which one cannot see. This method attempts to find errors in the following categories
+\begin{itemize}
+\item Incorrect or missing functions
+\item Interface errors
+\item Errors in data structures or external database access
+\item Behaviour or performance errors
+\item Initialization and termination errors
+\end{itemize}
+
+\subsection{White Box Testing}
+White Box Testing is also known as Clear Box Testing, Open Box Testing, Glass Box Testing,
+Transparent Box Testing, Code-Based Testing or Structural Testing. It is a software testing
+method in which the internal structure, design, implementation of the item being tested is
+known to the tester. The tester chooses inputs to exercise paths through the code and determines the appropriate outputs. Programming know-how and implementation knowledge
+is essential. White box testing is testing beyond the user interface and into the nitty-gritty
+of a system.
+This method is named so because the software program, in the eyes of the tester, is like
+a white or transparent box; inside which one clearly sees.
+
+\section {Manual and Automated Testing}
+Following methodologies are used for testing.
+\subsection{Manual Testing}
+It is the oldest and most rigorous types of testing it is performed by human sitting in
+front of a computer carefully going through applications screens, trying various usage and
+input combinations, comparing the results to the expected behavior and recording their
+observations about project. There are certain ways of manual testing first of all test cases
+are written then they are executed and then report is generated according to test result.
+\subsection{Automated Testing}
+Automation testing is a Software testing technique to test and compare the actual outcome
+with the expected outcome. This can be achieved by writing test scripts or using any
+automation testing tool. Test automation is used to automate repetitive tasks and other
+testing tasks which are difficult to perform manually.
+The benefit of manual testing is that it allows a human mind to draw insights from a
+test that might otherwise be missed by an automated testing program. Automated testing
+is well-suited for large projects; projects that require testing the same areas over and over;
+and projects that have already been through an initial manual testing process.
+
+\section{Test Case Identification and Execution}
+\subsection{Test Cases}
+Test Case is the set of inputs along with the expected output and actual output some
+additional information.
+
+
+\begin{center}
+     \begin{tabular}{c|c|c|c|c|c|}
+         
+         \begin{tabularx}{1\textwidth} { 
+  | >{\raggedright\arraybackslash}X 
+  | >{\raggedright\arraybackslash}X
+  | >{\raggedright\arraybackslash}X 
+  | >{\raggedright\arraybackslash}X
+  | >{\raggedright\arraybackslash}X
+  | >{\raggedright\arraybackslash}X|}
+ \hline
+  ID & Scenario & Input & Expected Output & Actual output & Result\\
+ \hline
+ 1&Information without any fabrication &Image/text&No fabrication or false information detected&No fabrication or false information detected& Pass\\
+\hline
+  2&Information with fabrication  &Image/text&Fabrication detected
+&Fabrication detected&Pass\\
+\hline
+ 3&Information with fabrication & Image/text & Fabrication detected &Fabrication not detected&Fail \\
+\hline
+  4&Valid information gathered& Image/text & Information is directed to authorities &Information is directed to authorities &Pass \\
+\hline
+ 5&Valid information gathered & Image/text & Information is directed to authorities&Information is not directed to authorities & Fail
+ \\
+\hline
+\end{tabularx} 
+     \end{tabular}
+     \caption{Test Cases }
+    \label{tab:my_label}
+ \end{center}
+
+
+ 
+    
